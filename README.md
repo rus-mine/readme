@@ -1,7 +1,10 @@
+|[English](../README.md)|[русский](../README_RU.md)|
+|-----------------------|--------------------------|
+
 ![](https://media.discordapp.net/attachments/886685249340309579/917786677991333929/banner.png)
 
 <p>
-  <a href="hhttps://discord.gg/2j76zDqybG">
+  <a href="https://discord.gg/2j76zDqybG">
     <img src="https://img.shields.io/discord/766974894772191263?color=%233366fe&label=%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0&style=flat-square" alt="Discord">
   </a>
 </p>
