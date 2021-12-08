@@ -1,4 +1,4 @@
-|[English](../README.md)|[русский](../README_RU.md)|
+|[English](README.md)|[русский](README_RU.md)|
 |-----------------------|--------------------------|
 
 ![](https://media.discordapp.net/attachments/886685249340309579/917786677991333929/banner.png)
