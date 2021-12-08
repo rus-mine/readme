@@ -21,4 +21,4 @@ RISMINE is a project which is created and supported by Russian developers. Pleas
 All Pull-Requests are only welcome, and we'll be very happy if you would help us with the development! So if you want to contribute, please navigate to the [contributing guide](/CONTRIBUTING.md).
 
 ## License & Self-hosting notice
-This project is licensed is under the [MIT(/LICENSE) license. If you want to use code from this repository/self-host a copy of Flame, you **must** credit the original author and provide a link to this repository. 
+This project is licensed is under the [MIT](https://github.com/rus-mine/license/blob/main/LICENSE) license. If you want to use code from this repository/self-host a copy of Flame, you **must** credit the original author and provide a link to this repository. 
